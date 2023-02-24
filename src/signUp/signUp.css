@@ -1,0 +1,53 @@
+.body_signUp{
+    width: auto;
+    height: 100vh;
+    background-color: rgb(46, 42, 48);
+    display: flex;
+    justify-content: center;
+
+}
+
+.signUp_box{
+    width: 40%;
+    min-width: 300px;
+    height: 45%;
+    background-color: rgb(42, 123, 170);
+    border-radius: 25px;
+    border: 3px solid white;
+    /*box-shadow: 2px 5px 4px grey;*/
+    margin-top: 100px;
+
+   
+}
+
+.signUp_form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.signUp_form div{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label{
+    width: 95%;
+    text-align: center;
+}
+label > input{
+    width: 70%;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+
+.title_form{
+    font-size: 25px;
+}
