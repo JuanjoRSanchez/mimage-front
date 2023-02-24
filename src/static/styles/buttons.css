@@ -10,6 +10,8 @@
     flex-wrap: wrap;
 }
 
+
+
 .link_principal{
     width: 100px;
     height: 30px;
@@ -21,6 +23,8 @@
     color: rgb(218, 238, 255);
     border-radius: 5px;
 }
+
+
 
 .link_principal:hover{
     background-color: rgb(56, 104, 124);
